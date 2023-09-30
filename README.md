@@ -1,1 +1,4 @@
-# 项目学习笔记
+## 启动
+```pycon
+python ./manage.py runserver
+```
